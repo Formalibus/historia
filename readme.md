@@ -1,6 +1,8 @@
 # HISTORIA
 Da pacem domine
 
+[русский](./readmeRUS.md)
+
 ## How to install
 Open folder where you want to add this project and then type
 ``` git clone https://github.com/Formalibus/historia.git ```
